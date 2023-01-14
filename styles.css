@@ -1,0 +1,53 @@
+body{
+    background-color: #EEF1FF;
+   
+}
+h2{
+   position: relative;
+   bottom: 290px;
+   
+}
+h3{
+    position: relative;
+    bottom: 280px;
+    font-weight: normal;
+}
+.text{
+    text-align: center;
+    
+}
+.qrcode-img{
+    height: 260px;
+    width: 250px;
+    margin: 40px 45px 300px 40px;
+    border-radius:12%;
+    }
+.card{
+    background-color: white;
+    align-items: center;
+    width: 325px;
+    height: 500px;
+    padding: 18px;
+    position: relative;
+    left:600px;
+    top:250px;
+    border-radius: 25px;
+   }
+   .bottom-container{
+    text-align: center;
+    position: relative;
+    top:400px;
+   
+   }
+   a{
+    color:blue;
+    font-size: 20px;
+    text-decoration: none;
+   }
+   a:hover{
+    color:grey;
+   }
+   p{
+    color: black;
+   }
+  
